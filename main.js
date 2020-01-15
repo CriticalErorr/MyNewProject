@@ -6,3 +6,4 @@ clonePerson.fullName.firstName = 'Will'
 console.log(originalPerson.fullName.firstName);
 
 // hihihih
+// new line
